@@ -1,7 +1,16 @@
 body{
-    background-image: url(../immagini/Sfondo.jpg);
+    background-image: url(../immagini/Battaglia.jpg);
     background-repeat: no-repeat;
-    background-position: 250px 500px;
-    background-size: 200px 400px; 
-  
+    background-position: 0px 0px;
+    background-size: 100% 100%; 
+}
+div{
+    width: 300px;
+    border: 150px;
+    padding: 50px;
+    margin: 20px;
+
+}
+.container{
+ 
 }
