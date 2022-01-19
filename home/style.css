@@ -1,6 +1,7 @@
 body{
-    background-image: url(Sfondo.jpg);
+    background-image: url(../immagini/Sfondo.jpg);
     background-repeat: no-repeat;
-    background-position: 250px 250px;
+    background-position: 250px 500px;
+    background-size: 200px 400px; 
   
 }
