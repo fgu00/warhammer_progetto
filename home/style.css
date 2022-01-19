@@ -1,7 +1,6 @@
 body{
-    width: auto;
-    height: auto;
-    background-image:url("/desktop/warhammer_progetto/immagini/Sfondo.jpg");
-
-    
+    background-image: url(Sfondo.jpg);
+    background-repeat: no-repeat;
+    background-position: 250px 250px;
+  
 }
