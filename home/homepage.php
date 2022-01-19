@@ -8,9 +8,9 @@
 echo"<form align='center' heigth='500px' method='POST'>
 <div>
 </br>
-inserisci il tuo nickname <input type='text'  name='nick'></br>
+<font color='white'size='4'>inserisci il tuo nickname <input type='text'  name='nick'></font></br>
 </br>
-inserisci la tua password <input type='text' name='pass'></br>
+<font color='white' size='3'>inserisci la tua password <input type='text' name='pass'></font></br>
 </br>
 <input type='submit' value='accedi'>
 </div>
