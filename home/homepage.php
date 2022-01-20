@@ -18,8 +18,10 @@ echo"<form align='center' heigth='500px' method='POST'>
 </div>
 </form>";
 echo "<form align='center' action='nuovo_utente.php' target='_blank'>
+<div>
     <button type='submit'>
       Visita Mr. Webmaster
-    </button>  
+    </button> 
+    </div> 
   </form>";
 ?>
