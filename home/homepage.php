@@ -12,9 +12,8 @@ echo"<form align='center' heigth='500px' method='POST'>
 </br>
 <font color='white' size='3'>inserisci la tua password <input type='text' name='pass'></font></br>
 </br>
-<input type='submit' value='accedi' ></br></br>
-<input type='submit' value='nuovo utente' <a href=warhammer_progetto/accesso/nuovo_utente></a>></br></br>
-<input type='submit' value='password dimenticata'>
+<input type='submit' value='accedi' >
 </div>
 </form>";
+echo "<a href=/accesso/nuovo_utente.php></a>"
 ?>
