@@ -15,13 +15,15 @@ echo"<form align='center' heigth='500px' method='POST'>
 <font color='white' size='3'>inserisci la tua password <input type='text' name='pass'></font></br>
 </br>
 <input type='submit' value='accedi' >
-</div>
+</div> 
 </form>";
-echo "<form align='center' action='nuovo_utente.php' target='_blank'>
-<div>
-    <button type='submit'>
-      Visita Mr. Webmaster
-    </button> 
-    </div> 
-  </form>";
+echo "<form align='center' action='nuovo_utente.php'>
+<input type='submit' value='nuovo utente' >
+</br>
+</br>
+</from>";
+echo "<form align='center' action='kljcvfklijf.php'>
+<input type='submit' value='password dimenticata' >
+</from>";
+   
 ?>
