@@ -2,6 +2,8 @@
     <head>
     <link href="style.css" rel="stylesheet" type="text/css">
     </head>
+    <body>
+    </body>
 </html>
 
 <?php
@@ -15,5 +17,9 @@ echo"<form align='center' heigth='500px' method='POST'>
 <input type='submit' value='accedi' >
 </div>
 </form>";
-echo "<a href=/accesso/nuovo_utente.php></a>"
+echo "<form align='center' action='nuovo_utente.php' target='_blank'>
+    <button type='submit'>
+      Visita Mr. Webmaster
+    </button>  
+  </form>";
 ?>
