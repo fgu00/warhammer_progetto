@@ -1,0 +1,13 @@
+body{
+    background-image: url(../immagini/utente.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size: cover; 
+}
+div{
+    width: 200px;
+    border: 15px;
+    padding: 50px;
+    margin: 0  auto;
+
+}
