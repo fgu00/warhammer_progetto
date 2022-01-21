@@ -1,4 +1,4 @@
 <?php
-echo "work in progras";
+echo "work in progress";
 
 ?>
