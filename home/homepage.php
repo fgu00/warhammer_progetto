@@ -17,14 +17,14 @@ echo"<form align='center' heigth='500px' method='POST'>
 </br>
 <input type='submit' value='accedi' >
 </form>";
-echo "<form align='center' action='nuovo_utente.php' >
-<input type='submit' value='nuovo utente' >
-<br>
+
+echo "<form align='center' action='nuovo_utente.php'>
+</br>
+<input type='submit' value='nuovo utente'>
 </form>";
-echo "<form align='center' action='password.php' >
+
+echo "<form align='center' action='password.php'>
 <input type='submit' value='password dimenticata' >
-<br>
 </form>
-</div> ";
-   
+</div> ";  
 ?>
