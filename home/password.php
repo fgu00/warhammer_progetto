@@ -11,7 +11,7 @@ if($conn->connect_error){
 echo "connesione instabile ricontrollare la connesione";
 }else{
 if($conn==$_post['password']){
-    $receivers = implode("$_POST['password']");
+    $receivers ="$_POST['password']";
     $oggeto="recupero password";
     $message="   
      <html>
